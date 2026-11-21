@@ -1,10 +1,10 @@
 {
   "currency": "SAR",
   "metal": "XAU",
-  "nisab_85g_sar": "36601.49",
-  "price_sar_per_gram": "430.6058",
+  "nisab_85g_sar": "36277.35",
+  "price_sar_per_gram": "426.7924",
   "provider": "GoldAPI.io",
   "purity": "24k",
-  "quoted_at": "2026-11-20T14:42:36+00:00",
+  "quoted_at": "2026-11-21T13:58:23+00:00",
   "verification_status": "pending_sharia_advisor_review"
 }
